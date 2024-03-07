@@ -1,0 +1,32 @@
+:root{
+--primarycolor: #264027;
+--secondaycolor: #0D1F22;
+--accentcolor: #B38A58;
+--darkcolor:#3C5233;
+--lightcolor:#B38A58;
+
+
+--spacingsmall: 10px;
+--spacingmedium: 20px;
+--spacinglarge: 30px;
+
+--fontfamily: fantasy;
+}
+h1{
+color: var(--primarycolor);
+background-color: var(--accentcolor);
+padding-left: var(spacingmedium);
+font-family: var(--fontfamily);
+}
+h2{
+  color: var(--primarycolor);
+  background-color: var(--accentcolor);
+  padding-left: var(spacingmedium);
+}
+p{
+  color: var(--primarycolor);
+  background-color: var(--accentcolor);
+  padding-left: var(spacingmedium);
+  
+}
+
